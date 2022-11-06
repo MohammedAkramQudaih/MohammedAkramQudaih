@@ -2,6 +2,7 @@
 - 👀 I’m a Software Developer
 - 🌱 I’m a Web Developer for Laravel
 - 📫 mohammedakram1020@gmail.com
+- 📫 dev.mqudaih@gmail.com
 
 <!---
 MohammedAkramQudaih/MohammedAkramQudaih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
