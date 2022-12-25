@@ -4,7 +4,7 @@
 - Ⓜ [wa.me/+972594845793](https://wa.me/+972594845793)
 - 📫 mohammedakram1020@gmail.com
 - 📫 dev.mqudaih@gmail.com
-- 
+
 ![Green and White Minimalist Graphic Designer Resume Template](https://user-images.githubusercontent.com/75170603/209462993-53fa6d09-0058-46d6-840c-05efb48a71a2.jpg)
 
 <!---
