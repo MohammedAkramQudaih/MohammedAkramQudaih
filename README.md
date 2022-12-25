@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammedAkramQudaih
 - 👀 I’m a Software Developer
-- 🌱 I’m a Web Developer for Laravel
+- 🌱 I’m a Back End Developer for Laravel
 - Ⓜ [wa.me/+972594845793](https://wa.me/+972594845793)
 - 📫 mohammedakram1020@gmail.com
 - 📫 dev.mqudaih@gmail.com
