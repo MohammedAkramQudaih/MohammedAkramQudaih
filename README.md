@@ -5,8 +5,9 @@
 - 📫 mohammedakram1020@gmail.com
 - 📫 dev.mqudaih@gmail.com
 
-![Green and White Minimalist Graphic Designer Resume Template](https://user-images.githubusercontent.com/75170603/209463351-9d1f40ce-b1f9-4397-879e-e0b984c3b814.jpg)
-
+<!-- ![Green and White Minimalist Graphic Designer Resume Template](https://user-images.githubusercontent.com/75170603/209463351-9d1f40ce-b1f9-4397-879e-e0b984c3b814.jpg)
+ -->
+[Green and White Minimalist Graphic Designer Resume Template.pdf](https://github.com/MohammedAkramQudaih/MohammedAkramQudaih/files/10477812/Green.and.White.Minimalist.Graphic.Designer.Resume.Template.pdf)
 
 <!---
 MohammedAkramQudaih/MohammedAkramQudaih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
